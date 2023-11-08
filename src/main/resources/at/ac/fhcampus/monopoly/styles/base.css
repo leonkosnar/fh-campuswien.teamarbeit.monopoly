@@ -1,0 +1,8 @@
+#welcomeText{
+    -fx-font: 50px "Impact";
+    -fx-base: rgb(255, 100, 100);
+}
+#startButton{
+    -fx-background: rgb(255, 255, 255);
+    -fx-font: 50px "sans-serif";
+}
