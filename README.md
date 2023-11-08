@@ -1,5 +1,5 @@
 # Monopoly in Wienerisch
-** Barbara, David, Gülsüm, Leon & Mehmed **
+***Barbara, David, Gülsüm, Leon & Mehmed***
 
 ## Roadmap
 - [ ] 1. Roadmap defininieren
