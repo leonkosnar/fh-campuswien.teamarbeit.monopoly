@@ -2,11 +2,11 @@
 ** Barbara, David, Gülsüm, Leon & Mehmed **
 
 ## Roadmap
-1. [ ] Roadmap defininieren
-2. [ ] Features definieren
-3. [ ] Layout definieren
+- [ ] 1. Roadmap defininieren
+- [ ] 2. Features definieren
+- [ ] 3. Layout definieren
 
--1. [ ] Fertig
+- [ ] -1. Fertig
 
 ## Quick Guide
 - Projekt starten:
